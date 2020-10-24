@@ -1,4 +1,4 @@
-## ALPHA-Automatic Loan Processing Hybrid Application.
+## ALPHA-Automatic Loan Processing Hybrid Application Python.
 
 **Introduction**
 The “ALPHA” application is a Machine-Learning based desktop application which provides an
